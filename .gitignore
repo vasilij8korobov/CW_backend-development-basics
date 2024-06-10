@@ -1,2 +1,11 @@
 .idea
 *.pyc
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
